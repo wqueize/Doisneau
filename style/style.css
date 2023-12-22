@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Poppins:wght@100&family=Roboto:wght@100&display=swap');
+
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+
+}
+
+body{
+    background-color: grey;
+}
+
+
+h1 {
+
+    font-family: 'poppins';
+    text-align: center;
+    text-decoration: underline;
+    color:white;
+
+
+}
+
+#Sakura{
+    margin-top:  80px;
+    margin-left: 20px;
+    height: 150px;
+    border-radius: 6px 6px 6px 6px;
+}
