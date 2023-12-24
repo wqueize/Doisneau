@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+
+    background-color: rgb(216, 216, 216);
+
+}
+
+
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+
+
+
+}
+
+
+.fa-arrow-left{
+    float: left;
+    margin-left: 22px;
+    margin-top: 535px;
+    position: relative;
+	text-decoration: none;
+    color: black
+
+}
+
+
+.fa-arrow-left:hover{
+
+    cursor: pointer;
+    color: rgb(41, 41, 41);
+
+
+}
+
+
+
+.footer {
+    background-color: #a5a5a5;
+    color: rgb(27, 27, 27);
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: rgb(27, 27, 27);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
